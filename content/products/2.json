@@ -1,0 +1,10 @@
+{
+  "id": 2,
+  "title": "Ice cream sandwich",
+  "description":
+    "Sweet An ice cream sandwich is a frozen dessert consisting of ice cream between two biscuits, skins, wafers, or cookies. The ingredients are different around the world, with Ireland and Israel using wafers, and North America using chocolate cookies.",
+  "summary": "An ice cream sandwich is a frozen dessert",
+  "price": 100,
+  "category": "Dessert",
+  "status": "published"
+}
